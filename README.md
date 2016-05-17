@@ -1,0 +1,2 @@
+# SynacorCodeChallenge
+Synacor Code Challenge
