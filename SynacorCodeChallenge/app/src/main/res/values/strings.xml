@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SynacorCodeChallenge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sort_by_date">Sort By Date</string>
+    <string name="sort_by_name">Sort By Name</string>
+
+</resources>
